@@ -8,7 +8,7 @@ public class ApiRestSeminario2Application {
 
 	public static void main(String[] args) {
 		
-		//ESTO ES UNA SEGUNDA PRUEBA
+		//ESTA ES UNA PRUEBA AWS2
 		SpringApplication.run(ApiRestSeminario2Application.class, args);
 	}
 
