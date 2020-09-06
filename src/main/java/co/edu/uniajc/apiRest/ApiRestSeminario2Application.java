@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApiRestSeminario2Application {
 
 	public static void main(String[] args) {
+		
+		//ESTO ES UNA PRUEBA
 		SpringApplication.run(ApiRestSeminario2Application.class, args);
 	}
 
